@@ -1,0 +1,9 @@
+<script src="/assets/dashboard/js/bootstrap.bundle.min.js"></script>
+<script src="/assets/dashboard/js/Chart.min.js"></script>
+<script src="/assets/dashboard/js/dynamic-pie-chart.js"></script>
+<script src="/assets/dashboard/js/moment.min.js"></script>
+<script src="/assets/dashboard/js/fullcalendar.js"></script>
+<script src="/assets/dashboard/js/jvectormap.min.js"></script>
+<script src="/assets/dashboard/js/world-merc.js"></script>
+<script src="/assets/dashboard/js/polyfill.js"></script>
+<script src="/assets/dashboard/js/main.js"></script>
