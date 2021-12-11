@@ -23,8 +23,8 @@
                         justify-content-center justify-content-md-end
                     "
                 >
-                    <a href="https://bit.ly/33iNgPt" target="_blank" class="text-sm">Syarat & Ketentuan</a>
-                    <a href="https://bit.ly/3oIQJiB" target="_blank" class="text-sm ml-15">Kebijakan Privasi</a>
+                    <a href="https://bit.ly/3oIQJiB" target="_blank" class="text-sm">Kebijakan Privasi</a>
+                    <a href="https://bit.ly/33iNgPt" target="_blank" class="text-sm ml-15">Syarat & Ketentuan</a>
                 </div>
             </div>
         </div>

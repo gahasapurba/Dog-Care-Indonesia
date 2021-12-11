@@ -12,19 +12,11 @@
                             Menu
                         </button>
                     </div>
-                    <div class="header-search d-none d-md-flex">
-                        <form action="#">
-                            <input type="text" placeholder="Search..." />
-                            <button>
-                                <i class="lni lni-search-alt"></i>
-                            </button>
-                        </form>
-                    </div>
+                    <div id="google_translate_element"></div>
                 </div>
             </div>
             <div class="col-lg-7 col-md-7 col-6">
                 <div class="header-right">
-                    <!-- notification start -->
                     <div class="notification-box ml-15 d-none d-md-flex">
                         <button
                             class="dropdown-toggle"
@@ -34,7 +26,7 @@
                             aria-expanded="false"
                         >
                             <i class="lni lni-alarm"></i>
-                            <span>2</span>
+                            <span>3</span>
                         </button>
                         <ul
                             class="dropdown-menu dropdown-menu-end"
@@ -45,21 +37,20 @@
                                     <div class="image">
                                         <img
                                             src="/assets/dashboard/images/lead/lead-6.png"
-                                            alt=""
+                                            alt="Pengguna 1"
                                         />
                                     </div>
                                     <div class="content">
                                         <h6>
-                                            John Doe
+                                            Pengguna 1
                                             <span class="text-regular">
-                                                comment on a product.
+                                                telah mengisi kuesioner.
                                             </span>
                                         </h6>
                                         <p>
-                                            Lorem ipsum dolor sit amet, consect
-                                            etur adipiscing elit Vivamus tortor.
+                                            Saya telah mengisi kuesioner. Sukses selalu Dog Care Indonesia!
                                         </p>
-                                        <span>10 mins ago</span>
+                                        <span>10 menit yang lalu</span>
                                     </div>
                                 </a>
                             </li>
@@ -67,108 +58,136 @@
                                 <a href="#0">
                                     <div class="image">
                                         <img
-                                            src="/assets/dashboard/images/lead/lead-1.png"
-                                            alt=""
+                                            src="/assets/dashboard/images/lead/lead-6.png"
+                                            alt="Pengguna 2"
                                         />
                                     </div>
                                     <div class="content">
                                         <h6>
-                                            Jonathon
+                                            Pengguna 2
                                             <span class="text-regular">
-                                                like on a product.
+                                                telah berlangganan.
                                             </span>
                                         </h6>
                                         <p>
-                                            Lorem ipsum dolor sit amet, consect
-                                            etur adipiscing elit Vivamus tortor.
+                                            Saya telah mendaftarkan email saya untuk berlangganan. Sukses selalu Dog Care Indonesia!
                                         </p>
-                                        <span>10 mins ago</span>
+                                        <span>10 menit yang lalu</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#0">
+                                    <div class="image">
+                                        <img
+                                            src="/assets/dashboard/images/lead/lead-6.png"
+                                            alt="Pengguna 3"
+                                        />
+                                    </div>
+                                    <div class="content">
+                                        <h6>
+                                            Pengguna 3
+                                            <span class="text-regular">
+                                                telah mendaftarkan shelter.
+                                            </span>
+                                        </h6>
+                                        <p>
+                                            Saya telah membuat pengajuan untuk mendaftarkan shelter saya. Mohon segera ditindaklanjuti, terima kasih.
+                                        </p>
+                                        <span>10 menit yang lalu</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#0">
+                                    <div class="image">
+                                        <img
+                                            src="/assets/dashboard/images/lead/lead-6.png"
+                                            alt="Pengguna 4"
+                                        />
+                                    </div>
+                                    <div class="content">
+                                        <h6>
+                                            Pengguna 4
+                                            <span class="text-regular">
+                                                telah mendaftarkan anjing.
+                                            </span>
+                                        </h6>
+                                        <p>
+                                            Saya telah membuat pengajuan untuk mendaftarkan anjing saya, agar dapat diadopsi orang. Mohon segera ditindaklanjuti, terima kasih.
+                                        </p>
+                                        <span>10 menit yang lalu</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#0">
+                                    <div class="image">
+                                        <img
+                                            src="/assets/dashboard/images/lead/lead-6.png"
+                                            alt="Pengguna 5"
+                                        />
+                                    </div>
+                                    <div class="content">
+                                        <h6>
+                                            Pengguna 5
+                                            <span class="text-regular">
+                                                telah membuat postingan.
+                                            </span>
+                                        </h6>
+                                        <p>
+                                            Saya telah membuat postingan baru untuk ditampilkan di blog website. Mohon segera ditinjau, terima kasih.
+                                        </p>
+                                        <span>10 menit yang lalu</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#0">
+                                    <div class="image">
+                                        <img
+                                            src="/assets/dashboard/images/lead/lead-6.png"
+                                            alt="Pengguna 6"
+                                        />
+                                    </div>
+                                    <div class="content">
+                                        <h6>
+                                            Pengguna 6
+                                            <span class="text-regular">
+                                                telah mengajukan topik.
+                                            </span>
+                                        </h6>
+                                        <p>
+                                            Saya telah mengajukan topik untuk didiskusikan pada forum diskusi. Mohon segera dikonfirmasi, terima kasih.
+                                        </p>
+                                        <span>10 menit yang lalu</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#0">
+                                    <div class="image">
+                                        <img
+                                            src="/assets/dashboard/images/lead/lead-6.png"
+                                            alt="Pengguna 7"
+                                        />
+                                    </div>
+                                    <div class="content">
+                                        <h6>
+                                            Pengguna 7
+                                            <span class="text-regular">
+                                                telah mendaftarkan toko.
+                                            </span>
+                                        </h6>
+                                        <p>
+                                            Saya telah membuat pengajuan untuk mendaftarkan toko saya. Mohon segera ditindaklanjuti, terima kasih.
+                                        </p>
+                                        <span>10 menit yang lalu</span>
                                     </div>
                                 </a>
                             </li>
                         </ul>
                     </div>
-                    <!-- notification end -->
-                    <!-- message start -->
-                    <div class="header-message-box ml-15 d-none d-md-flex">
-                        <button
-                            class="dropdown-toggle"
-                            type="button"
-                            id="message"
-                            data-bs-toggle="dropdown"
-                            aria-expanded="false"
-                        >
-                            <i class="lni lni-envelope"></i>
-                            <span>3</span>
-                        </button>
-                        <ul
-                            class="dropdown-menu dropdown-menu-end"
-                            aria-labelledby="message"
-                        >
-                            <li>
-                                <a href="#0">
-                                    <div class="image">
-                                        <img
-                                            src="/assets/dashboard/images/lead/lead-5.png"
-                                            alt=""
-                                        />
-                                    </div>
-                                    <div class="content">
-                                        <h6>Jacob Jones</h6>
-                                        <p>
-                                            Hey!I can across your profile and
-                                            ...
-                                        </p>
-                                        <span>10 mins ago</span>
-                                    </div>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#0">
-                                    <div class="image">
-                                        <img
-                                            src="/assets/dashboard/images/lead/lead-3.png"
-                                            alt=""
-                                        />
-                                    </div>
-                                    <div class="content">
-                                        <h6>John Doe</h6>
-                                        <p>
-                                            Would you mind please checking out
-                                        </p>
-                                        <span>12 mins ago</span>
-                                    </div>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#0">
-                                    <div class="image">
-                                        <img
-                                            src="/assets/dashboard/images/lead/lead-2.png"
-                                            alt=""
-                                        />
-                                    </div>
-                                    <div class="content">
-                                        <h6>Anee Lee</h6>
-                                        <p>
-                                            Hey! are you available for
-                                            freelance?
-                                        </p>
-                                        <span>1h ago</span>
-                                    </div>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                    <!-- message end -->
-                    <!-- filter start -->
-                    <div class="filter-box ml-15 d-none d-md-flex">
-                        <button class="" type="button" id="filter">
-                            <i class="lni lni-funnel"></i>
-                        </button>
-                    </div>
-                    <!-- filter end -->
-                    <!-- profile start -->
                     <div class="profile-box ml-15">
                         <button
                             class="dropdown-toggle bg-transparent border-0"
@@ -179,11 +198,11 @@
                         >
                             <div class="profile-info">
                                 <div class="info">
-                                    <h6>John Doe</h6>
+                                    <h6>Pengguna 1</h6>
                                     <div class="image">
                                         <img
                                             src="/assets/dashboard/images/profile/profile-image.png"
-                                            alt=""
+                                            alt="Pengguna 1"
                                         />
                                         <span class="status"></span>
                                     </div>
@@ -197,37 +216,18 @@
                         >
                             <li>
                                 <a href="#0">
-                                    <i class="lni lni-user"></i>
-                                    View Profile
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#0">
-                                    <i class="lni lni-alarm"></i>
-                                    Notifications
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#0">
-                                    <i class="lni lni-inbox"></i>
-                                    Messages
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#0">
                                     <i class="lni lni-cog"></i>
-                                    Settings
+                                    Dashboard Pengguna
                                 </a>
                             </li>
                             <li>
                                 <a href="#0">
                                     <i class="lni lni-exit"></i>
-                                    Sign Out
+                                    Keluar
                                 </a>
                             </li>
                         </ul>
                     </div>
-                    <!-- profile end -->
                 </div>
             </div>
         </div>

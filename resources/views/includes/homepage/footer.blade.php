@@ -91,6 +91,9 @@
                             <h3>Informasi</h3>
                             <ul>
                                 <li>
+                                    <a href="javascript:void(0)">Kuesioner Kepuasan Pelanggan</a>
+                                </li>
+                                <li>
                                     <a href="javascript:void(0)">Tentang Kami</a>
                                 </li>
                                 <li>
@@ -100,10 +103,10 @@
                                     <a href="javascript:void(0)">Halaman FAQs</a>
                                 </li>
                                 <li>
-                                    <a href="https://bit.ly/33iNgPt" target="_blank">Syarat dan Ketentuan</a>
+                                    <a href="https://bit.ly/3oIQJiB" target="_blank">Kebijakan Privasi</a>
                                 </li>
                                 <li>
-                                    <a href="https://bit.ly/3oIQJiB" target="_blank">Kebijakan Privasi</a>
+                                    <a href="https://bit.ly/33iNgPt" target="_blank">Syarat dan Ketentuan</a>
                                 </li>
                             </ul>
                         </div>
@@ -176,8 +179,8 @@
                                 ></a>
                             </li>
                             <li>
-                                <a href="mailto:dogcare.indonesia@gmail.com" target="_blank"
-                                    ><i class="lni lni-google"></i
+                                <a href="https://youtube.com/channel/UCi_VutHsvtyaJQ84s9xdSDg" target="_blank"
+                                    ><i class="lni lni-youtube"></i
                                 ></a>
                             </li>
                         </ul>
