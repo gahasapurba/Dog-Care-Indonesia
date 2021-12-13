@@ -36,19 +36,35 @@
                                 <a href="#0">
                                     <div class="image">
                                         <img
-                                            src="/assets/dashboard/images/lead/lead-6.png"
-                                            alt="Pengguna 1"
+                                            src="/assets/dashboard/images/logo/logo-2.svg"
+                                            alt="Dog Care Indonesia"
                                         />
                                     </div>
                                     <div class="content">
                                         <h6>
-                                            Pengguna 1
-                                            <span class="text-regular">
-                                                telah mengisi kuesioner.
-                                            </span>
+                                            Dog Care Indonesia
                                         </h6>
                                         <p>
-                                            Saya telah mengisi kuesioner. Sukses selalu Dog Care Indonesia!
+                                            Seseorang telah mengisi kuesioner. Silahkan cek halaman "Hasil Kuesioner".
+                                        </p>
+                                        <span>10 menit yang lalu</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#0">
+                                    <div class="image">
+                                        <img
+                                            src="/assets/dashboard/images/logo/logo-2.svg"
+                                            alt="Dog Care Indonesia"
+                                        />
+                                    </div>
+                                    <div class="content">
+                                        <h6>
+                                            Dog Care Indonesia
+                                        </h6>
+                                        <p>
+                                            Seseorang telah mendaftarkan emailnya untuk berlangganan. Silahkan cek halaman "Email Berlangganan".
                                         </p>
                                         <span>10 menit yang lalu</span>
                                     </div>
@@ -59,62 +75,18 @@
                                     <div class="image">
                                         <img
                                             src="/assets/dashboard/images/lead/lead-6.png"
-                                            alt="Pengguna 2"
+                                            alt="Pengguna"
                                         />
                                     </div>
                                     <div class="content">
                                         <h6>
-                                            Pengguna 2
-                                            <span class="text-regular">
-                                                telah berlangganan.
-                                            </span>
-                                        </h6>
-                                        <p>
-                                            Saya telah mendaftarkan email saya untuk berlangganan. Sukses selalu Dog Care Indonesia!
-                                        </p>
-                                        <span>10 menit yang lalu</span>
-                                    </div>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#0">
-                                    <div class="image">
-                                        <img
-                                            src="/assets/dashboard/images/lead/lead-6.png"
-                                            alt="Pengguna 3"
-                                        />
-                                    </div>
-                                    <div class="content">
-                                        <h6>
-                                            Pengguna 3
-                                            <span class="text-regular">
-                                                telah mendaftarkan shelter.
-                                            </span>
-                                        </h6>
-                                        <p>
-                                            Saya telah membuat pengajuan untuk mendaftarkan shelter saya. Mohon segera ditindaklanjuti, terima kasih.
-                                        </p>
-                                        <span>10 menit yang lalu</span>
-                                    </div>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#0">
-                                    <div class="image">
-                                        <img
-                                            src="/assets/dashboard/images/lead/lead-6.png"
-                                            alt="Pengguna 4"
-                                        />
-                                    </div>
-                                    <div class="content">
-                                        <h6>
-                                            Pengguna 4
+                                            Pengguna
                                             <span class="text-regular">
                                                 telah mendaftarkan anjing.
                                             </span>
                                         </h6>
                                         <p>
-                                            Saya telah membuat pengajuan untuk mendaftarkan anjing saya, agar dapat diadopsi orang. Mohon segera ditindaklanjuti, terima kasih.
+                                            Saya telah mengisi form pendaftaran anjing, agar anjing saya dapat diadopsi. Mohon segera ditinjau, terima kasih.
                                         </p>
                                         <span>10 menit yang lalu</span>
                                     </div>
@@ -125,18 +97,18 @@
                                     <div class="image">
                                         <img
                                             src="/assets/dashboard/images/lead/lead-6.png"
-                                            alt="Pengguna 5"
+                                            alt="Pengguna"
                                         />
                                     </div>
                                     <div class="content">
                                         <h6>
-                                            Pengguna 5
+                                            Pengguna
                                             <span class="text-regular">
-                                                telah membuat postingan.
+                                                telah mendaftarkan shelter.
                                             </span>
                                         </h6>
                                         <p>
-                                            Saya telah membuat postingan baru untuk ditampilkan di blog website. Mohon segera ditinjau, terima kasih.
+                                            Saya telah mengisi form pendaftaran shelter, agar shelter saya dapat ditampilkan pada website. Mohon segera ditinjau, terima kasih.
                                         </p>
                                         <span>10 menit yang lalu</span>
                                     </div>
@@ -147,18 +119,18 @@
                                     <div class="image">
                                         <img
                                             src="/assets/dashboard/images/lead/lead-6.png"
-                                            alt="Pengguna 6"
+                                            alt="Pengguna"
                                         />
                                     </div>
                                     <div class="content">
                                         <h6>
-                                            Pengguna 6
+                                            Pengguna
                                             <span class="text-regular">
                                                 telah mengajukan topik.
                                             </span>
                                         </h6>
                                         <p>
-                                            Saya telah mengajukan topik untuk didiskusikan pada forum diskusi. Mohon segera dikonfirmasi, terima kasih.
+                                            Saya telah mengisi form pengajuan topik, agar topik yang saya ajukan dapat didiskusikan pada forum diskusi. Mohon segera ditinjau, terima kasih.
                                         </p>
                                         <span>10 menit yang lalu</span>
                                     </div>
@@ -169,18 +141,62 @@
                                     <div class="image">
                                         <img
                                             src="/assets/dashboard/images/lead/lead-6.png"
-                                            alt="Pengguna 7"
+                                            alt="Pengguna"
                                         />
                                     </div>
                                     <div class="content">
                                         <h6>
-                                            Pengguna 7
+                                            Pengguna
+                                            <span class="text-regular">
+                                                telah membuat postingan.
+                                            </span>
+                                        </h6>
+                                        <p>
+                                            Saya telah mengisi form pembuatan postingan, agar postingan saya dapat dibaca. Mohon segera ditinjau, terima kasih.
+                                        </p>
+                                        <span>10 menit yang lalu</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#0">
+                                    <div class="image">
+                                        <img
+                                            src="/assets/dashboard/images/lead/lead-6.png"
+                                            alt="Pengguna"
+                                        />
+                                    </div>
+                                    <div class="content">
+                                        <h6>
+                                            Pengguna
                                             <span class="text-regular">
                                                 telah mendaftarkan toko.
                                             </span>
                                         </h6>
                                         <p>
-                                            Saya telah membuat pengajuan untuk mendaftarkan toko saya. Mohon segera ditindaklanjuti, terima kasih.
+                                            Saya telah mengisi form pendaftaran toko, agar saya dapat berjualan. Mohon segera ditinjau, terima kasih.
+                                        </p>
+                                        <span>10 menit yang lalu</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#0">
+                                    <div class="image">
+                                        <img
+                                            src="/assets/dashboard/images/lead/lead-6.png"
+                                            alt="Pengguna"
+                                        />
+                                    </div>
+                                    <div class="content">
+                                        <h6>
+                                            Pengguna
+                                            <span class="text-regular">
+                                                telah membeli produk di website.
+                                            </span>
+                                        </h6>
+                                        <p>
+                                            Saya telah membeli produk yang ada di website dan saya juga telah mengirimkan bukti pembayaran. Mohon segera ditinjau, terima kasih.
                                         </p>
                                         <span>10 menit yang lalu</span>
                                     </div>
@@ -198,11 +214,11 @@
                         >
                             <div class="profile-info">
                                 <div class="info">
-                                    <h6>Pengguna 1</h6>
+                                    <h6>Pengguna</h6>
                                     <div class="image">
                                         <img
                                             src="/assets/dashboard/images/profile/profile-image.png"
-                                            alt="Pengguna 1"
+                                            alt="Pengguna"
                                         />
                                         <span class="status"></span>
                                     </div>
@@ -217,8 +233,7 @@
                             <li>
                                 <a href="#0">
                                     <i class="lni lni-cog"></i>
-                                    Dashboard Pengguna
-                                </a>
+                                    Dashboard Pengguna                               </a>
                             </li>
                             <li>
                                 <a href="#0">

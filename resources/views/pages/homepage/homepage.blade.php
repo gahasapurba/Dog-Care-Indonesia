@@ -12,23 +12,20 @@
                         <div
                             class="single-slider"
                             style="
-                                background-image: url(/assets/homepage/images/hero/slider-bg1.jpg);
+                                background-image: url(/assets/homepage/images/hero/slider-background1.png);
                             "
                         >
                             <div class="content">
                                 <h2>
-                                    <span>No restocking fee ($35 savings)</span>
-                                    M75 Sport Watch
+                                    <span>Adopsi anjing sekarang menjadi</span>
+                                    Lebih Mudah
                                 </h2>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur
-                                    elit, sed do eiusmod tempor incididunt ut
-                                    labore dolore magna aliqua.
+                                    Di Dog Care Indonesia terdapat berbagai jenis anjing yang dapat anda adopsi dan jadikan mereka sebagai sahabat baik anda.
                                 </p>
-                                <h3><span>Now Only</span> $320.99</h3>
                                 <div class="button">
                                     <a href="product-grids.html" class="btn"
-                                        >Shop Now</a
+                                        >Adopsi Anjing</a
                                     >
                                 </div>
                             </div>
@@ -36,23 +33,20 @@
                         <div
                             class="single-slider"
                             style="
-                                background-image: url(/assets/homepage/images/hero/slider-bg2.jpg);
+                                background-image: url(/assets/homepage/images/hero/slider-background2.png);
                             "
                         >
                             <div class="content">
                                 <h2>
-                                    <span>Big Sale Offer</span>
-                                    Get the Best Deal on CCTV Camera
+                                    <span>Bahas berbagai topik mengenai anjing pada</span>
+                                    Forum Diskusi
                                 </h2>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur
-                                    elit, sed do eiusmod tempor incididunt ut
-                                    labore dolore magna aliqua.
+                                    Dog Care Indonesia menyediakan forum diskusi sebagai wadah untuk para pecinta anjing dapat berdiskusi mengenai berbagai topik yang berhubungan dengan anjing.
                                 </p>
-                                <h3><span>Combo Only:</span> $590.00</h3>
                                 <div class="button">
                                     <a href="product-grids.html" class="btn"
-                                        >Shop Now</a
+                                        >Gabung Sekarang</a
                                     >
                                 </div>
                             </div>
@@ -66,29 +60,30 @@
                         <div
                             class="hero-small-banner"
                             style="
-                                background-image: url('/assets/homepage/images/hero/slider-bnr.jpg');
+                                background-image: url('/assets/homepage/images/hero/slider-banner.png');
                             "
                         >
                             <div class="content">
                                 <h2>
-                                    <span>New line required</span>
-                                    iPhone 12 Pro Max
+                                    <span>Belanja kebutuhan anjing</span>
+                                    Jadi lebih mudah!
                                 </h2>
-                                <h3>$259.99</h3>
+                                <a href="product-grids.html"
+                                    ><h3>Belanja Sekarang</h3></a
+                                >
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-12 col-md-6 col-12">
                         <div class="hero-small-banner style2">
                             <div class="content">
-                                <h2>Weekly Sale!</h2>
+                                <h2>Anda mencari shelter?</h2>
                                 <p>
-                                    Saving up to 50% off all online store items
-                                    this week.
+                                    Temukan berbagai shelter di Indonesia pada website Dog Care Indonesia.
                                 </p>
                                 <div class="button">
                                     <a class="btn" href="product-grids.html"
-                                        >Shop Now</a
+                                        >Cari Shelter</a
                                     >
                                 </div>
                             </div>
@@ -104,11 +99,9 @@
         <div class="row">
             <div class="col-12">
                 <div class="section-title">
-                    <h2>Featured Categories</h2>
+                    <h2>Berbagai Kategori</h2>
                     <p>
-                        There are many variations of passages of Lorem Ipsum
-                        available, but the majority have suffered alteration in
-                        some form.
+                        Terdapat berbagai macam kategori anjing, topik diskusi, dan produk yang ada di website<br>Dog Care Indonesia.
                     </p>
                 </div>
             </div>
@@ -116,19 +109,17 @@
         <div class="row">
             <div class="col-lg-4 col-md-6 col-12">
                 <div class="single-category">
-                    <h3 class="heading">TV & Audios</h3>
+                    <h3 class="heading">Kategori Anjing</h3>
                     <ul>
-                        <li>
-                            <a href="product-grids.html">Smart Television</a>
-                        </li>
-                        <li><a href="product-grids.html">QLED TV</a></li>
-                        <li><a href="product-grids.html">Audios</a></li>
-                        <li><a href="product-grids.html">Headphones</a></li>
-                        <li><a href="product-grids.html">View All</a></li>
+                        <li><a href="product-grids.html">Bulldog</a></li>
+                        <li><a href="product-grids.html">Bulldog</a></li>
+                        <li><a href="product-grids.html">Bulldog</a></li>
+                        <li><a href="product-grids.html">Bulldog</a></li>
+                        <li><a href="product-grids.html">Bulldog</a></li>
                     </ul>
                     <div class="images">
                         <img
-                            src="/assets/homepage/images/featured-categories/fetured-item-1.png"
+                            src="/assets/homepage/images/featured-categories/kategori1.png"
                             alt="#"
                         />
                     </div>
@@ -136,99 +127,35 @@
             </div>
             <div class="col-lg-4 col-md-6 col-12">
                 <div class="single-category">
-                    <h3 class="heading">Desktop & Laptop</h3>
+                    <h3 class="heading">Kategori Topik Diskusi</h3>
                     <ul>
-                        <li>
-                            <a href="product-grids.html">Smart Television</a>
-                        </li>
-                        <li><a href="product-grids.html">QLED TV</a></li>
-                        <li><a href="product-grids.html">Audios</a></li>
-                        <li><a href="product-grids.html">Headphones</a></li>
-                        <li><a href="product-grids.html">View All</a></li>
+                        <li><a href="product-grids.html">Kesehatan Anjing</a></li>
+                        <li><a href="product-grids.html">Kesehatan Anjing</a></li>
+                        <li><a href="product-grids.html">Kesehatan Anjing</a></li>
+                        <li><a href="product-grids.html">Kesehatan Anjing</a></li>
+                        <li><a href="product-grids.html">Kesehatan Anjing</a></li>
                     </ul>
                     <div class="images">
                         <img
-                            src="/assets/homepage/images/featured-categories/fetured-item-2.png"
+                            src="/assets/homepage/images/featured-categories/kategori2.png"
                             alt="#"
                         />
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-12">
+            <div class="col-lg-4 col-md-12 col-12">
                 <div class="single-category">
-                    <h3 class="heading">Cctv Camera</h3>
+                    <h3 class="heading">Kategori Produk</h3>
                     <ul>
-                        <li>
-                            <a href="product-grids.html">Smart Television</a>
-                        </li>
-                        <li><a href="product-grids.html">QLED TV</a></li>
-                        <li><a href="product-grids.html">Audios</a></li>
-                        <li><a href="product-grids.html">Headphones</a></li>
-                        <li><a href="product-grids.html">View All</a></li>
+                        <li><a href="product-grids.html">Makanan Anjing</a></li>
+                        <li><a href="product-grids.html">Mainan Anjing</a></li>
+                        <li><a href="product-grids.html">Makanan Anjing</a></li>
+                        <li><a href="product-grids.html">Mainan Anjing</a></li>
+                        <li><a href="product-grids.html">Makanan Anjing</a></li>
                     </ul>
                     <div class="images">
                         <img
-                            src="/assets/homepage/images/featured-categories/fetured-item-3.png"
-                            alt="#"
-                        />
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-12">
-                <div class="single-category">
-                    <h3 class="heading">Dslr Camera</h3>
-                    <ul>
-                        <li>
-                            <a href="product-grids.html">Smart Television</a>
-                        </li>
-                        <li><a href="product-grids.html">QLED TV</a></li>
-                        <li><a href="product-grids.html">Audios</a></li>
-                        <li><a href="product-grids.html">Headphones</a></li>
-                        <li><a href="product-grids.html">View All</a></li>
-                    </ul>
-                    <div class="images">
-                        <img
-                            src="/assets/homepage/images/featured-categories/fetured-item-4.png"
-                            alt="#"
-                        />
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-12">
-                <div class="single-category">
-                    <h3 class="heading">Smart Phones</h3>
-                    <ul>
-                        <li>
-                            <a href="product-grids.html">Smart Television</a>
-                        </li>
-                        <li><a href="product-grids.html">QLED TV</a></li>
-                        <li><a href="product-grids.html">Audios</a></li>
-                        <li><a href="product-grids.html">Headphones</a></li>
-                        <li><a href="product-grids.html">View All</a></li>
-                    </ul>
-                    <div class="images">
-                        <img
-                            src="/assets/homepage/images/featured-categories/fetured-item-5.png"
-                            alt="#"
-                        />
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-12">
-                <div class="single-category">
-                    <h3 class="heading">Game Console</h3>
-                    <ul>
-                        <li>
-                            <a href="product-grids.html">Smart Television</a>
-                        </li>
-                        <li><a href="product-grids.html">QLED TV</a></li>
-                        <li><a href="product-grids.html">Audios</a></li>
-                        <li><a href="product-grids.html">Headphones</a></li>
-                        <li><a href="product-grids.html">View All</a></li>
-                    </ul>
-                    <div class="images">
-                        <img
-                            src="/assets/homepage/images/featured-categories/fetured-item-6.png"
+                            src="/assets/homepage/images/featured-categories/kategori3.png"
                             alt="#"
                         />
                     </div>
@@ -242,11 +169,9 @@
         <div class="row">
             <div class="col-12">
                 <div class="section-title">
-                    <h2>Trending Product</h2>
+                    <h2>Ragam Jenis Anjing</h2>
                     <p>
-                        There are many variations of passages of Lorem Ipsum
-                        available, but the majority have suffered alteration in
-                        some form.
+                        Ada berbagai jenis anjing yang dapat anda adopsi dari website Dog Care Indonesia.<br>Berikut beberapa anjing yang dapat diadopsi di website kami.
                     </p>
                 </div>
             </div>
@@ -256,31 +181,24 @@
                 <div class="single-product">
                     <div class="product-image">
                         <img
-                            src="/assets/homepage/images/products/product-1.jpg"
+                            src="/assets/homepage/images/dogs/dog.png"
                             alt="#"
                         />
                         <div class="button">
                             <a href="product-details.html" class="btn"
-                                ><i class="lni lni-cart"></i> Add to Cart</a
+                                ><i class="lni lni-hand"></i> Adopsi</a
                             >
                         </div>
                     </div>
                     <div class="product-info">
-                        <span class="category">Watches</span>
+                        <span class="category">Bulldog</span>
                         <h4 class="title">
-                            <a href="product-grids.html">Xiaomi Mi Band 5</a>
+                            <a href="product-grids.html">Blacky</a>
                         </h4>
-                        <ul class="review">
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star"></i></li>
-                            <li><span>4.0 Review(s)</span></li>
+                        <br>
+                        <ul>
+                            <li><span>Milik : Pengguna</span></li>
                         </ul>
-                        <div class="price">
-                            <span>$199.00</span>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -288,35 +206,24 @@
                 <div class="single-product">
                     <div class="product-image">
                         <img
-                            src="/assets/homepage/images/products/product-2.jpg"
+                            src="/assets/homepage/images/dogs/dog.png"
                             alt="#"
                         />
-                        <span class="sale-tag">-25%</span>
                         <div class="button">
                             <a href="product-details.html" class="btn"
-                                ><i class="lni lni-cart"></i> Add to Cart</a
+                                ><i class="lni lni-hand"></i> Adopsi</a
                             >
                         </div>
                     </div>
                     <div class="product-info">
-                        <span class="category">Speaker</span>
+                        <span class="category">Bulldog</span>
                         <h4 class="title">
-                            <a href="product-grids.html"
-                                >Big Power Sound Speaker</a
-                            >
+                            <a href="product-grids.html">Blacky</a>
                         </h4>
-                        <ul class="review">
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><span>5.0 Review(s)</span></li>
+                        <br>
+                        <ul>
+                            <li><span>Milik : Pengguna</span></li>
                         </ul>
-                        <div class="price">
-                            <span>$275.00</span>
-                            <span class="discount-price">$300.00</span>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -324,33 +231,24 @@
                 <div class="single-product">
                     <div class="product-image">
                         <img
-                            src="/assets/homepage/images/products/product-3.jpg"
+                            src="/assets/homepage/images/dogs/dog.png"
                             alt="#"
                         />
                         <div class="button">
                             <a href="product-details.html" class="btn"
-                                ><i class="lni lni-cart"></i> Add to Cart</a
+                                ><i class="lni lni-hand"></i> Adopsi</a
                             >
                         </div>
                     </div>
                     <div class="product-info">
-                        <span class="category">Camera</span>
+                        <span class="category">Bulldog</span>
                         <h4 class="title">
-                            <a href="product-grids.html"
-                                >WiFi Security Camera</a
-                            >
+                            <a href="product-grids.html">Blacky</a>
                         </h4>
-                        <ul class="review">
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><span>5.0 Review(s)</span></li>
+                        <br>
+                        <ul>
+                            <li><span>Milik : Pengguna</span></li>
                         </ul>
-                        <div class="price">
-                            <span>$399.00</span>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -358,167 +256,34 @@
                 <div class="single-product">
                     <div class="product-image">
                         <img
-                            src="/assets/homepage/images/products/product-4.jpg"
+                            src="/assets/homepage/images/dogs/dog.png"
                             alt="#"
                         />
-                        <span class="new-tag">New</span>
                         <div class="button">
                             <a href="product-details.html" class="btn"
-                                ><i class="lni lni-cart"></i> Add to Cart</a
+                                ><i class="lni lni-hand"></i> Adopsi</a
                             >
                         </div>
                     </div>
                     <div class="product-info">
-                        <span class="category">Phones</span>
+                        <span class="category">Bulldog</span>
                         <h4 class="title">
-                            <a href="product-grids.html">iphone 6x plus</a>
+                            <a href="product-grids.html">Blacky</a>
                         </h4>
-                        <ul class="review">
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><span>5.0 Review(s)</span></li>
+                        <br>
+                        <ul>
+                            <li><span>Milik : Pengguna</span></li>
                         </ul>
-                        <div class="price">
-                            <span>$400.00</span>
-                        </div>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-12">
-                <div class="single-product">
-                    <div class="product-image">
-                        <img
-                            src="/assets/homepage/images/products/product-5.jpg"
-                            alt="#"
-                        />
-                        <div class="button">
-                            <a href="product-details.html" class="btn"
-                                ><i class="lni lni-cart"></i> Add to Cart</a
-                            >
-                        </div>
-                    </div>
-                    <div class="product-info">
-                        <span class="category">Headphones</span>
-                        <h4 class="title">
-                            <a href="product-grids.html">Wireless Headphones</a>
-                        </h4>
-                        <ul class="review">
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><span>5.0 Review(s)</span></li>
-                        </ul>
-                        <div class="price">
-                            <span>$350.00</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-12">
-                <div class="single-product">
-                    <div class="product-image">
-                        <img
-                            src="/assets/homepage/images/products/product-6.jpg"
-                            alt="#"
-                        />
-                        <div class="button">
-                            <a href="product-details.html" class="btn"
-                                ><i class="lni lni-cart"></i> Add to Cart</a
-                            >
-                        </div>
-                    </div>
-                    <div class="product-info">
-                        <span class="category">Speaker</span>
-                        <h4 class="title">
-                            <a href="product-grids.html"
-                                >Mini Bluetooth Speaker</a
-                            >
-                        </h4>
-                        <ul class="review">
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star"></i></li>
-                            <li><span>4.0 Review(s)</span></li>
-                        </ul>
-                        <div class="price">
-                            <span>$70.00</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-12">
-                <div class="single-product">
-                    <div class="product-image">
-                        <img
-                            src="/assets/homepage/images/products/product-7.jpg"
-                            alt="#"
-                        />
-                        <span class="sale-tag">-50%</span>
-                        <div class="button">
-                            <a href="product-details.html" class="btn"
-                                ><i class="lni lni-cart"></i> Add to Cart</a
-                            >
-                        </div>
-                    </div>
-                    <div class="product-info">
-                        <span class="category">Headphones</span>
-                        <h4 class="title">
-                            <a href="product-grids.html"
-                                >PX7 Wireless Headphones</a
-                            >
-                        </h4>
-                        <ul class="review">
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star"></i></li>
-                            <li><span>4.0 Review(s)</span></li>
-                        </ul>
-                        <div class="price">
-                            <span>$100.00</span>
-                            <span class="discount-price">$200.00</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-12">
-                <div class="single-product">
-                    <div class="product-image">
-                        <img
-                            src="/assets/homepage/images/products/product-8.jpg"
-                            alt="#"
-                        />
-                        <div class="button">
-                            <a href="product-details.html" class="btn"
-                                ><i class="lni lni-cart"></i> Add to Cart</a
-                            >
-                        </div>
-                    </div>
-                    <div class="product-info">
-                        <span class="category">Laptop</span>
-                        <h4 class="title">
-                            <a href="product-grids.html">Apple MacBook Air</a>
-                        </h4>
-                        <ul class="review">
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><span>5.0 Review(s)</span></li>
-                        </ul>
-                        <div class="price">
-                            <span>$899.00</span>
-                        </div>
-                    </div>
+        </div>
+        <div class="row mt-5 text-center">
+            <div class="col-12">
+                <div class="button">
+                    <a href="product-grids.html" class="btn"
+                        >Anjing Lainnya</a
+                    >
                 </div>
             </div>
         </div>
@@ -531,18 +296,17 @@
                 <div
                     class="single-banner"
                     style="
-                        background-image: url('/assets/homepage/images/banner/banner-1-bg.jpg');
+                        background-image: url('/assets/homepage/images/banner/banner1-bg.png');
                     "
                 >
                     <div class="content">
-                        <h2>Smart Watch 2.0</h2>
+                        <h2>Tertarik menjadi mitra kami?</h2>
                         <p>
-                            Space Gray Aluminum Case with <br />Black/Volt Real
-                            Sport Band
+                            Anda dapat berjualan produk kebutuhan anjing pada<br>marketplace yang telah kami sediakan. Produk anda<br>pasti akan dilirik oleh para pecinta anjing.
                         </p>
                         <div class="button">
                             <a href="product-grids.html" class="btn"
-                                >View Details</a
+                                >Buka Toko</a
                             >
                         </div>
                     </div>
@@ -552,18 +316,17 @@
                 <div
                     class="single-banner custom-responsive-margin"
                     style="
-                        background-image: url('/assets/homepage/images/banner/banner-2-bg.jpg');
+                        background-image: url('/assets/homepage/images/banner/banner2-bg.png');
                     "
                 >
                     <div class="content">
-                        <h2>Smart Headphone</h2>
+                        <h2>Anda seorang pemilik shelter?</h2>
                         <p>
-                            Lorem ipsum dolor sit amet, <br />eiusmod tempor
-                            incididunt ut labore.
+                            Anda juga dapat mempromosikan shelter anda<br>di website DCI. Shelter anda akan ditampilkan<br>dan dilihat oleh para pengunjung website.
                         </p>
                         <div class="button">
                             <a href="product-grids.html" class="btn"
-                                >Shop Now</a
+                                >Daftar Shelter</a
                             >
                         </div>
                     </div>
@@ -577,11 +340,9 @@
         <div class="row">
             <div class="col-12">
                 <div class="section-title">
-                    <h2>Special Offer</h2>
+                    <h2>Produk Kebutuhan Anjing</h2>
                     <p>
-                        There are many variations of passages of Lorem Ipsum
-                        available, but the majority have suffered alteration in
-                        some form.
+                        Di website Dog Care Indonesia juga tersedia marketplace yang bisa menjadi solusi bagi para pecinta anjing dalam memenuhi kebutuhan anjing kesayangannya.
                     </p>
                 </div>
             </div>
@@ -593,33 +354,28 @@
                         <div class="single-product">
                             <div class="product-image">
                                 <img
-                                    src="/assets/homepage/images/products/product-3.jpg"
+                                    src="/assets/homepage/images/products/product1.jpg"
                                     alt="#"
                                 />
                                 <div class="button">
                                     <a href="product-details.html" class="btn"
-                                        ><i class="lni lni-cart"></i> Add to
-                                        Cart</a
-                                    >
+                                        ><i class="lni lni-cart"></i>
+                                        Tambahkan ke keranjang
+                                    </a>
                                 </div>
                             </div>
                             <div class="product-info">
-                                <span class="category">Camera</span>
+                                <span class="category">Makanan Anjing</span>
                                 <h4 class="title">
                                     <a href="product-grids.html"
-                                        >WiFi Security Camera</a
+                                        >Makanan Anjing Mantap</a
                                     >
                                 </h4>
-                                <ul class="review">
-                                    <li><i class="lni lni-star-filled"></i></li>
-                                    <li><i class="lni lni-star-filled"></i></li>
-                                    <li><i class="lni lni-star-filled"></i></li>
-                                    <li><i class="lni lni-star-filled"></i></li>
-                                    <li><i class="lni lni-star-filled"></i></li>
-                                    <li><span>5.0 Review(s)</span></li>
+                                <ul>
+                                    <li><span>Laelaekalam Store</span></li>
                                 </ul>
                                 <div class="price">
-                                    <span>$399.00</span>
+                                    <span>Rp25.000,00</span>
                                 </div>
                             </div>
                         </div>
@@ -628,33 +384,28 @@
                         <div class="single-product">
                             <div class="product-image">
                                 <img
-                                    src="/assets/homepage/images/products/product-8.jpg"
+                                    src="/assets/homepage/images/products/product1.jpg"
                                     alt="#"
                                 />
                                 <div class="button">
                                     <a href="product-details.html" class="btn"
-                                        ><i class="lni lni-cart"></i> Add to
-                                        Cart</a
-                                    >
+                                        ><i class="lni lni-cart"></i>
+                                        Tambahkan ke keranjang
+                                    </a>
                                 </div>
                             </div>
                             <div class="product-info">
-                                <span class="category">Laptop</span>
+                                <span class="category">Makanan Anjing</span>
                                 <h4 class="title">
                                     <a href="product-grids.html"
-                                        >Apple MacBook Air</a
+                                        >Makanan Anjing Mantap</a
                                     >
                                 </h4>
-                                <ul class="review">
-                                    <li><i class="lni lni-star-filled"></i></li>
-                                    <li><i class="lni lni-star-filled"></i></li>
-                                    <li><i class="lni lni-star-filled"></i></li>
-                                    <li><i class="lni lni-star-filled"></i></li>
-                                    <li><i class="lni lni-star-filled"></i></li>
-                                    <li><span>5.0 Review(s)</span></li>
+                                <ul>
+                                    <li><span>Laelaekalam Store</span></li>
                                 </ul>
                                 <div class="price">
-                                    <span>$899.00</span>
+                                    <span>Rp25.000,00</span>
                                 </div>
                             </div>
                         </div>
@@ -663,33 +414,28 @@
                         <div class="single-product">
                             <div class="product-image">
                                 <img
-                                    src="/assets/homepage/images/products/product-6.jpg"
+                                    src="/assets/homepage/images/products/product1.jpg"
                                     alt="#"
                                 />
                                 <div class="button">
                                     <a href="product-details.html" class="btn"
-                                        ><i class="lni lni-cart"></i> Add to
-                                        Cart</a
-                                    >
+                                        ><i class="lni lni-cart"></i>
+                                        Tambahkan ke keranjang
+                                    </a>
                                 </div>
                             </div>
                             <div class="product-info">
-                                <span class="category">Speaker</span>
+                                <span class="category">Makanan Anjing</span>
                                 <h4 class="title">
                                     <a href="product-grids.html"
-                                        >Bluetooth Speaker</a
+                                        >Makanan Anjing Mantap</a
                                     >
                                 </h4>
-                                <ul class="review">
-                                    <li><i class="lni lni-star-filled"></i></li>
-                                    <li><i class="lni lni-star-filled"></i></li>
-                                    <li><i class="lni lni-star-filled"></i></li>
-                                    <li><i class="lni lni-star-filled"></i></li>
-                                    <li><i class="lni lni-star"></i></li>
-                                    <li><span>4.0 Review(s)</span></li>
+                                <ul>
+                                    <li><span>Laelaekalam Store</span></li>
                                 </ul>
                                 <div class="price">
-                                    <span>$70.00</span>
+                                    <span>Rp25.000,00</span>
                                 </div>
                             </div>
                         </div>
@@ -698,22 +444,21 @@
                 <div
                     class="single-banner right"
                     style="
-                        background-image: url('/assets/homepage/images/banner/banner-3-bg.jpg');
+                        background-image: url('/assets/homepage/images/banner/banner3-bg.png');
                         margin-top: 30px;
                     "
                 >
                     <div class="content">
-                        <h2>Samsung Notebook 9</h2>
+                        <h2>Solusi Kebutuhan Anjing Anda</h2>
                         <p>
-                            Lorem ipsum dolor sit amet, <br />eiusmod tempor
-                            incididunt ut labore.
+                            Produk kami selalu dijamin kualitasnya demi kenyamanan anda berbelanja
                         </p>
                         <div class="price">
-                            <span>$590.00</span>
+                            <span>Tunggu apalagi?</span>
                         </div>
                         <div class="button">
                             <a href="product-grids.html" class="btn"
-                                >Shop Now</a
+                                >Mulai Berbelanja</a
                             >
                         </div>
                     </div>
@@ -723,55 +468,25 @@
                 <div class="offer-content">
                     <div class="image">
                         <img
-                            src="/assets/homepage/images/offer/offer-image.jpg"
+                            src="/assets/homepage/images/products/product1.jpg"
                             alt="#"
                         />
-                        <span class="sale-tag">-50%</span>
                     </div>
                     <div class="text">
                         <h2>
-                            <a href="product-grids.html">Bluetooth Headphone</a>
+                            <a href="product-grids.html">Makanan Anjing Mantap</a>
                         </h2>
-                        <ul class="review">
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><i class="lni lni-star-filled"></i></li>
-                            <li><span>5.0 Review(s)</span></li>
+                        <ul>
+                            <li><span>Laelaekalam Store</span></li>
                         </ul>
                         <div class="price">
-                            <span>$200.00</span>
-                            <span class="discount-price">$400.00</span>
+                            <span>Rp25.000,00</span>
                         </div>
                         <p>
                             Lorem Ipsum is simply dummy text of the printing and
                             typesetting industry incididunt ut eiusmod tempor
                             labores.
                         </p>
-                    </div>
-                    <div class="box-head">
-                        <div class="box">
-                            <h1 id="days">000</h1>
-                            <h2 id="daystxt">Days</h2>
-                        </div>
-                        <div class="box">
-                            <h1 id="hours">00</h1>
-                            <h2 id="hourstxt">Hours</h2>
-                        </div>
-                        <div class="box">
-                            <h1 id="minutes">00</h1>
-                            <h2 id="minutestxt">Minutes</h2>
-                        </div>
-                        <div class="box">
-                            <h1 id="seconds">00</h1>
-                            <h2 id="secondstxt">Secondes</h2>
-                        </div>
-                    </div>
-                    <div style="background: rgb(204, 24, 24)" class="alert">
-                        <h1 style="padding: 50px 80px; color: white">
-                            We are sorry, Event ended !
-                        </h1>
                     </div>
                 </div>
             </div>
@@ -780,165 +495,102 @@
 </section>
 <section class="home-product-list section">
     <div class="container">
+        <div class="row mb-5">
+            <div class="col-12">
+                <div class="section-title">
+                    <h2>Forum Diskusi</h2>
+                    <p>
+                        Dog Care Indonesia menyediakan Forum Diskusi sebagai wadah bagi para pecinta anjing untuk berdiskusi mengenai berbagai hal yang terkait dengan anjing.
+                    </p>
+                </div>
+            </div>
+        </div>
         <div class="row">
             <div class="col-lg-4 col-md-4 col-12 custom-responsive-margin">
-                <h4 class="list-title">Best Sellers</h4>
                 <div class="single-list">
-                    <div class="list-image">
-                        <a href="product-grids.html"
-                            ><img
-                                src="/assets/homepage/images/home-product-list/01.jpg"
-                                alt="#"
-                        /></a>
-                    </div>
                     <div class="list-info">
                         <h3>
-                            <a href="product-grids.html">GoPro Hero4 Silver</a>
+                            <a href="product-grids.html">Solusi agar anjing dapat dilatih menjadi anjing yang penurut</a>
                         </h3>
-                        <span>$287.99</span>
+                        <span>Kesehatan Anjing</span>
                     </div>
                 </div>
                 <div class="single-list">
-                    <div class="list-image">
-                        <a href="product-grids.html"
-                            ><img
-                                src="/assets/homepage/images/home-product-list/02.jpg"
-                                alt="#"
-                        /></a>
-                    </div>
                     <div class="list-info">
                         <h3>
-                            <a href="product-grids.html"
-                                >Puro Sound Labs BT2200</a
-                            >
+                            <a href="product-grids.html">Solusi agar anjing dapat dilatih menjadi anjing yang penurut</a>
                         </h3>
-                        <span>$95.00</span>
+                        <span>Kesehatan Anjing</span>
                     </div>
                 </div>
                 <div class="single-list">
-                    <div class="list-image">
-                        <a href="product-grids.html"
-                            ><img
-                                src="/assets/homepage/images/home-product-list/03.jpg"
-                                alt="#"
-                        /></a>
-                    </div>
                     <div class="list-info">
                         <h3>
-                            <a href="product-grids.html"
-                                >HP OfficeJet Pro 8710</a
-                            >
+                            <a href="product-grids.html">Solusi agar anjing dapat dilatih menjadi anjing yang penurut</a>
                         </h3>
-                        <span>$120.00</span>
+                        <span>Kesehatan Anjing</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-12 custom-responsive-margin mb-5">
+                <div class="single-list">
+                    <div class="list-info">
+                        <h3>
+                            <a href="product-grids.html">Solusi agar anjing dapat dilatih menjadi anjing yang penurut</a>
+                        </h3>
+                        <span>Kesehatan Anjing</span>
+                    </div>
+                </div>
+                <div class="single-list">
+                    <div class="list-info">
+                        <h3>
+                            <a href="product-grids.html">Solusi agar anjing dapat dilatih menjadi anjing yang penurut</a>
+                        </h3>
+                        <span>Kesehatan Anjing</span>
+                    </div>
+                </div>
+                <div class="single-list">
+                    <div class="list-info">
+                        <h3>
+                            <a href="product-grids.html">Solusi agar anjing dapat dilatih menjadi anjing yang penurut</a>
+                        </h3>
+                        <span>Kesehatan Anjing</span>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-12 custom-responsive-margin">
-                <h4 class="list-title">New Arrivals</h4>
                 <div class="single-list">
-                    <div class="list-image">
-                        <a href="product-grids.html"
-                            ><img
-                                src="/assets/homepage/images/home-product-list/04.jpg"
-                                alt="#"
-                        /></a>
-                    </div>
                     <div class="list-info">
                         <h3>
-                            <a href="product-grids.html"
-                                >iPhone X 256 GB Space Gray</a
-                            >
+                            <a href="product-grids.html">Solusi agar anjing dapat dilatih menjadi anjing yang penurut</a>
                         </h3>
-                        <span>$1150.00</span>
+                        <span>Kesehatan Anjing</span>
                     </div>
                 </div>
                 <div class="single-list">
-                    <div class="list-image">
-                        <a href="product-grids.html"
-                            ><img
-                                src="/assets/homepage/images/home-product-list/05.jpg"
-                                alt="#"
-                        /></a>
-                    </div>
                     <div class="list-info">
                         <h3>
-                            <a href="product-grids.html"
-                                >Canon EOS M50 Mirrorless Camera</a
-                            >
+                            <a href="product-grids.html">Solusi agar anjing dapat dilatih menjadi anjing yang penurut</a>
                         </h3>
-                        <span>$950.00</span>
+                        <span>Kesehatan Anjing</span>
                     </div>
                 </div>
                 <div class="single-list">
-                    <div class="list-image">
-                        <a href="product-grids.html"
-                            ><img
-                                src="/assets/homepage/images/home-product-list/06.jpg"
-                                alt="#"
-                        /></a>
-                    </div>
                     <div class="list-info">
                         <h3>
-                            <a href="product-grids.html"
-                                >Microsoft Xbox One S</a
-                            >
+                            <a href="product-grids.html">Solusi agar anjing dapat dilatih menjadi anjing yang penurut</a>
                         </h3>
-                        <span>$298.00</span>
+                        <span>Kesehatan Anjing</span>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-12">
-                <h4 class="list-title">Top Rated</h4>
-                <div class="single-list">
-                    <div class="list-image">
-                        <a href="product-grids.html"
-                            ><img
-                                src="/assets/homepage/images/home-product-list/07.jpg"
-                                alt="#"
-                        /></a>
-                    </div>
-                    <div class="list-info">
-                        <h3>
-                            <a href="product-grids.html"
-                                >Samsung Gear 360 VR Camera</a
-                            >
-                        </h3>
-                        <span>$68.00</span>
-                    </div>
-                </div>
-                <div class="single-list">
-                    <div class="list-image">
-                        <a href="product-grids.html"
-                            ><img
-                                src="/assets/homepage/images/home-product-list/08.jpg"
-                                alt="#"
-                        /></a>
-                    </div>
-                    <div class="list-info">
-                        <h3>
-                            <a href="product-grids.html"
-                                >Samsung Galaxy S9+ 64 GB</a
-                            >
-                        </h3>
-                        <span>$840.00</span>
-                    </div>
-                </div>
-                <div class="single-list">
-                    <div class="list-image">
-                        <a href="product-grids.html"
-                            ><img
-                                src="/assets/homepage/images/home-product-list/09.jpg"
-                                alt="#"
-                        /></a>
-                    </div>
-                    <div class="list-info">
-                        <h3>
-                            <a href="product-grids.html"
-                                >Zeus Bluetooth Headphones</a
-                            >
-                        </h3>
-                        <span>$28.00</span>
-                    </div>
+        </div>
+        <div class="row mt-5 text-center">
+            <div class="col-12">
+                <div class="button">
+                    <a href="product-grids.html" class="btn"
+                        >Lihat Semua Topik</a
+                    >
                 </div>
             </div>
         </div>
@@ -948,7 +600,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6 offset-lg-3 col-md-12 col-12">
-                <h2 class="title">Popular Brands</h2>
+                <h2 class="title">Sponsor Kami</h2>
             </div>
         </div>
         <div class="brands-logo-wrapper">
@@ -961,28 +613,25 @@
                 "
             >
                 <div class="brand-logo">
-                    <img src="/assets/homepage/images/brands/01.png" alt="#" />
+                    <img src="/assets/homepage/images/brands/001.png" alt="#" />
                 </div>
                 <div class="brand-logo">
-                    <img src="/assets/homepage/images/brands/02.png" alt="#" />
+                    <img src="/assets/homepage/images/brands/002.png" alt="#" />
                 </div>
                 <div class="brand-logo">
-                    <img src="/assets/homepage/images/brands/03.png" alt="#" />
+                    <img src="/assets/homepage/images/brands/003.png" alt="#" />
                 </div>
                 <div class="brand-logo">
-                    <img src="/assets/homepage/images/brands/04.png" alt="#" />
+                    <img src="/assets/homepage/images/brands/004.png" alt="#" />
                 </div>
                 <div class="brand-logo">
-                    <img src="/assets/homepage/images/brands/05.png" alt="#" />
+                    <img src="/assets/homepage/images/brands/005.png" alt="#" />
                 </div>
                 <div class="brand-logo">
-                    <img src="/assets/homepage/images/brands/06.png" alt="#" />
+                    <img src="/assets/homepage/images/brands/006.png" alt="#" />
                 </div>
                 <div class="brand-logo">
-                    <img src="/assets/homepage/images/brands/03.png" alt="#" />
-                </div>
-                <div class="brand-logo">
-                    <img src="/assets/homepage/images/brands/04.png" alt="#" />
+                    <img src="/assets/homepage/images/brands/007.png" alt="#" />
                 </div>
             </div>
         </div>
@@ -993,11 +642,9 @@
         <div class="row">
             <div class="col-12">
                 <div class="section-title">
-                    <h2>Our Latest News</h2>
+                    <h2>Postingan Terbaru</h2>
                     <p>
-                        There are many variations of passages of Lorem Ipsum
-                        available, but the majority have suffered alteration in
-                        some form.
+                        Ada banyak postingan mengenai anjing di halaman Blog yang kami sediakan pada website ini.<br>Berikut 3 postingan terbaru yang ada di Blog kami.
                     </p>
                 </div>
             </div>
@@ -1012,11 +659,11 @@
                     </div>
                     <div class="blog-content">
                         <a class="category" href="javascript:void(0)"
-                            >eCommerce</a
+                            >Kesehatan Anjing</a
                         >
                         <h4>
                             <a href="blog-single-sidebar.html"
-                                >What information is needed for shipping?</a
+                                >Memahami apa itu kutu anjing dan akibatnya pada anjing kita</a
                             >
                         </h4>
                         <p>
@@ -1025,7 +672,7 @@
                         </p>
                         <div class="button">
                             <a href="javascript:void(0)" class="btn"
-                                >Read More</a
+                                >Baca Postingan</a
                             >
                         </div>
                     </div>
@@ -1035,44 +682,17 @@
                 <div class="single-blog">
                     <div class="blog-img">
                         <a href="blog-single-sidebar.html">
-                            <img src="/assets/homepage/images/blog/blog-2.jpg" alt="#" />
-                        </a>
-                    </div>
-                    <div class="blog-content">
-                        <a class="category" href="javascript:void(0)">Gaming</a>
-                        <h4>
-                            <a href="blog-single-sidebar.html"
-                                >Interesting fact about gaming consoles</a
-                            >
-                        </h4>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit, sed do eiusmod tempor incididunt.
-                        </p>
-                        <div class="button">
-                            <a href="javascript:void(0)" class="btn"
-                                >Read More</a
-                            >
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-12">
-                <div class="single-blog">
-                    <div class="blog-img">
-                        <a href="blog-single-sidebar.html">
-                            <img src="/assets/homepage/images/blog/blog-3.jpg" alt="#" />
+                            <img src="/assets/homepage/images/blog/blog-1.jpg" alt="#" />
                         </a>
                     </div>
                     <div class="blog-content">
                         <a class="category" href="javascript:void(0)"
-                            >Electronic</a
+                            >Kesehatan Anjing</a
                         >
                         <h4>
                             <a href="blog-single-sidebar.html"
-                                >Electronics, instrumentation & control
-                                engineering
-                            </a>
+                                >Memahami apa itu kutu anjing dan akibatnya pada anjing kita</a
+                            >
                         </h4>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing
@@ -1080,10 +700,47 @@
                         </p>
                         <div class="button">
                             <a href="javascript:void(0)" class="btn"
-                                >Read More</a
+                                >Baca Postingan</a
                             >
                         </div>
                     </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-12">
+                <div class="single-blog">
+                    <div class="blog-img">
+                        <a href="blog-single-sidebar.html">
+                            <img src="/assets/homepage/images/blog/blog-1.jpg" alt="#" />
+                        </a>
+                    </div>
+                    <div class="blog-content">
+                        <a class="category" href="javascript:void(0)"
+                            >Kesehatan Anjing</a
+                        >
+                        <h4>
+                            <a href="blog-single-sidebar.html"
+                                >Memahami apa itu kutu anjing dan akibatnya pada anjing kita</a
+                            >
+                        </h4>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing
+                            elit, sed do eiusmod tempor incididunt.
+                        </p>
+                        <div class="button">
+                            <a href="javascript:void(0)" class="btn"
+                                >Baca Postingan</a
+                            >
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-5 text-center">
+            <div class="col-12">
+                <div class="button">
+                    <a href="product-grids.html" class="btn"
+                        >Lihat Blog</a
+                    >
                 </div>
             </div>
         </div>
@@ -1094,38 +751,38 @@
         <ul>
             <li>
                 <div class="media-icon">
-                    <i class="lni lni-delivery"></i>
+                    <i class="lni lni-hand"></i>
                 </div>
                 <div class="media-body">
-                    <h5>Free Shipping</h5>
-                    <span>On order over $99</span>
+                    <h5>Adopsi Anjing.</h5>
+                    <span>Mengadopsi Anjing Kini Jadi Lebih Mudah.</span>
                 </div>
             </li>
             <li>
                 <div class="media-icon">
-                    <i class="lni lni-support"></i>
+                    <i class="lni lni-search"></i>
                 </div>
                 <div class="media-body">
-                    <h5>24/7 Support.</h5>
-                    <span>Live Chat Or Call.</span>
+                    <h5>Cari Shelter.</h5>
+                    <span>Cari dan Temukan Shelter Yang Hendak Anda Kunjungi.</span>
                 </div>
             </li>
             <li>
                 <div class="media-icon">
-                    <i class="lni lni-credit-cards"></i>
+                    <i class="lni lni-bubble"></i>
                 </div>
                 <div class="media-body">
-                    <h5>Online Payment.</h5>
-                    <span>Secure Payment Services.</span>
+                    <h5>Forum Diskusi.</h5>
+                    <span>Ajukan Topik dan Diskusikan Bersama Orang Lain.</span>
                 </div>
             </li>
             <li>
                 <div class="media-icon">
-                    <i class="lni lni-reload"></i>
+                    <i class="lni lni-cart-full"></i>
                 </div>
                 <div class="media-body">
-                    <h5>Easy Return.</h5>
-                    <span>Hassle Free Shopping.</span>
+                    <h5>Marketplace.</h5>
+                    <span>Belanja Untuk Anjing Anda Dari Mana Saja dan Kapan Saja.</span>
                 </div>
             </li>
         </ul>
@@ -1134,7 +791,6 @@
 @endsection
 @push('addon-script')
 <script>
-    //========= Hero Slider
     tns({
         container: ".hero-slider",
         slideBy: "page",
@@ -1150,7 +806,6 @@
             '<i class="lni lni-chevron-right"></i>',
         ],
     });
-    //======== Brand Slider
     tns({
         container: ".brands-logo-carousel",
         autoplay: true,
@@ -1174,33 +829,5 @@
             },
         },
     });
-</script>
-<script>
-    const finaleDate = new Date("February 15, 2023 00:00:00").getTime();
-    const timer = () => {
-        const now = new Date().getTime();
-        let diff = finaleDate - now;
-        if (diff < 0) {
-            document.querySelector(".alert").style.display = "block";
-            document.querySelector(".container").style.display = "none";
-        }
-        let days = Math.floor(diff / (1000 * 60 * 60 * 24));
-        let hours = Math.floor(
-            (diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
-        );
-        let minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
-        let seconds = Math.floor((diff % (1000 * 60)) / 1000);
-        days <= 99 ? (days = `0${days}`) : days;
-        days <= 9 ? (days = `00${days}`) : days;
-        hours <= 9 ? (hours = `0${hours}`) : hours;
-        minutes <= 9 ? (minutes = `0${minutes}`) : minutes;
-        seconds <= 9 ? (seconds = `0${seconds}`) : seconds;
-        document.querySelector("#days").textContent = days;
-        document.querySelector("#hours").textContent = hours;
-        document.querySelector("#minutes").textContent = minutes;
-        document.querySelector("#seconds").textContent = seconds;
-    };
-    timer();
-    setInterval(timer, 1000);
 </script>
 @endpush

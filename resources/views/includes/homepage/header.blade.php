@@ -40,6 +40,12 @@
                             <li>
                                 <a href="register.html">Daftar</a>
                             </li>
+                            {{-- <li>
+                                <a href="login.html">Dashboard</a>
+                            </li>
+                            <li>
+                                <a href="register.html">Keluar</a>
+                            </li> --}}
                         </ul>
                     </div>
                 </div>
@@ -247,7 +253,7 @@
                             </li>
                             <li>
                                 <a href="product-grids.html"
-                                    >Kategori Produk
+                                    >Kategori Postingan
                                     <i class="lni lni-chevron-right"></i
                                 ></a>
                                 <ul class="inner-sub-category">
@@ -270,7 +276,7 @@
                             </li>
                             <li>
                                 <a href="product-grids.html"
-                                    >Kategori Postingan
+                                    >Kategori Produk
                                     <i class="lni lni-chevron-right"></i
                                 ></a>
                                 <ul class="inner-sub-category">
