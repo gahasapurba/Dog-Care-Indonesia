@@ -22,5 +22,7 @@
         @stack('prepend-script')
         @include('includes.homepage.script')
         @stack('addon-script')
+        {{-- Sweet Alert --}}
+        @include('sweetalert::alert')
     </body>
 </html>
