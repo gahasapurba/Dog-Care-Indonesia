@@ -2,6 +2,7 @@
 <script src="/assets/homepage/js/tiny-slider.js"></script>
 <script src="/assets/homepage/js/glightbox.min.js"></script>
 <script src="/assets/homepage/js/main.js"></script>
+<script src="//cdn.quilljs.com/1.3.6/quill.js"></script>
 <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <script type="text/javascript"> 
     function googleTranslateElementInit() { 

@@ -4,3 +4,4 @@
 <link rel="stylesheet" href="/assets/homepage/css/tiny-slider.css" />
 <link rel="stylesheet" href="/assets/homepage/css/glightbox.min.css" />
 <link rel="stylesheet" href="/assets/homepage/css/main.css" />
+<link rel="stylesheet" href="//cdn.quilljs.com/1.3.6/quill.snow.css" />

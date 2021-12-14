@@ -1274,7 +1274,6 @@
         });
         calendarMini.render();
     });
-
     // var datatable = $('#notificationTable').DataTable({
     //     lengthMenu: [[5, 10, 25, 50, 100, -1], [5, 10, 25, 50, 100, "All"]],
     //     processing: true,
